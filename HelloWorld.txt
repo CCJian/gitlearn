@@ -1,3 +1,6 @@
 Today is a rain day but a nice day 
 the first step to git 
 fighting fighting fighting 
+
+git is a distribut version control system
+git is a free software 
