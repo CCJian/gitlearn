@@ -4,3 +4,6 @@ fighting fighting fighting
 
 git is a distribut version control system
 git is a free software 
+
+the third try about git
+i had felt in love with git ^_^
